@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: NYU
+subtitle: 
 
 profile:
   align: right
@@ -17,6 +17,8 @@ selected_papers: flase # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-As a senior computer science major at NYU and a full-stack developer, I have a strong foundation in programming languages such as Java, Python, C/C++, and JavaScript. In my free time, I indulge my passions for art, music, and architecture, with a special interest in R&B. I also enjoy playing the guitar and have had the opportunity to intern at Tencent Music for half a year. As an avid snowboarder, I enjoy hitting the slopes in my free time.
+My name is Jessica Xu and I’m a sophomore at NYU majoring in math and computer science. 
 
+During my past working experience, I have honed both analytical and teamwork skills by working at different firms and organizations. Earlier, I completed internships as an investment banking analyst at Huatai United Securities. I have acquired better accounting and teamwork skills through analyzing companies’ financial statements while interacting with clients and helping colleagues prepare for prospectus for bond offerings. I was then able to apply the analytical skills to my experience as a corporate banking winter analyst and furthered my research skill through my internship at the Bank of China (New York), where I had the opportunity to research the U.S. real estate market and present 2022 real estate market outlook.
 
+In my spare time,I love doing winter sports, like snowboarding and skating, especially pursuing figure skating for many years. The accolades don’t come out all the time, but I do find pleasure in the hard work of figure skating. 
